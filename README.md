@@ -1,6 +1,6 @@
 # Meus Projetos DIO 🚀
 
-Repositório dos projetos desenvolvidos nos cursos da [DIO(https://www.dio.me/).
+Repositório dos projetos desenvolvidos nos cursos da [DIO](https://www.dio.me/).
 
 ## 📌 Sobre
 
